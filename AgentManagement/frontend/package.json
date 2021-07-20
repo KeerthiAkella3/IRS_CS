@@ -11,7 +11,7 @@
     "react-bootstrap-validation": "^0.1.11",
     "react-dom": "^16.13.1",
     "react-foundation": "^0.9.6",
-    "react-native": "^0.63.3",
+    "react-native": "^0.64.1",
     "react-native-web": "^0.14.4",
     "react-paginate": "^6.5.0",
     "react-router-dom": "^5.2.0",
